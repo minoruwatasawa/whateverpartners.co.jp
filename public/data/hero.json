@@ -1,0 +1,64 @@
+{
+  "time": "hiru",
+  "scene": "fine",
+  "hiru": {
+    "fine": {
+      "initialImage": "hero_hiru_bg_01.jpg",
+      "videoFile": "hero_hiru_bg_01.mp4",
+      "playbackSpeed": 0.5,
+      "brightness": 1
+    },
+    "cloud": {
+      "initialImage": "hero_hiru_bg_02.jpg",
+      "videoFile": "hero_hiru_bg_02.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 1
+    },
+    "rainy": {
+      "initialImage": "hero_hiru_bg_02.jpg",
+      "videoFile": "hero_hiru_bg_03.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 0.5
+    }
+  },
+  "yugata": {
+    "fine": {
+      "initialImage": "hero_yugata_bg_01.jpg",
+      "videoFile": "hero_yugata_bg_01.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 1
+    },
+    "cloud": {
+      "initialImage": "hero_yugata_bg_02.jpg",
+      "videoFile": "hero_yugata_bg_02.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 1
+    },
+    "rainy": {
+      "initialImage": "hero_yugata_bg_02.jpg",
+      "videoFile": "hero_yugata_bg_03.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 0.7
+    }
+  },
+  "yoru": {
+    "fine": {
+      "initialImage": "hero_yoru_bg_01.jpg",
+      "videoFile": "hero_yoru_bg_01.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 0.8
+    },
+    "cloud": {
+      "initialImage": "hero_yoru_bg_02.jpg",
+      "videoFile": "hero_yoru_bg_02.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 0.8
+    },
+    "rainy": {
+      "initialImage": "hero_yoru_bg_02.jpg",
+      "videoFile": "hero_yoru_bg_03.mp4",
+      "playbackSpeed": 0.3,
+      "brightness": 0.7
+    }
+  }
+}

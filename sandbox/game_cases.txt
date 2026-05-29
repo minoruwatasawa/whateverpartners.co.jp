@@ -1,0 +1,900 @@
+<div class="singleMainInner">
+            <article class="article">
+              <div class="articleHead">
+                <h1 class="articleTitle">
+                  ゲームを活用したキャンペーンサイト事例を紹介！遊べるwebサイトの制作方法も解説                </h1>
+                <div class="articleDateArea">
+                  <div class="articleDate">
+                    <span class="-txt">公開日:</span><span class="-date">2022.11.07</span>
+                  </div>
+                  <div class="articleDate">
+                    <span class="-txt">更新日:</span><span class="-date">2025.08.18</span>
+                  </div>
+                </div>
+                <div class="author-tags_wrap">
+                  <div class="articleTags">
+                    <div class="tagList"><a href="https://balance.bz/magazine/tag/gamification/" rel="tag">ゲーミフィケーション</a><a href="https://balance.bz/magazine/tag/web-campaign/" rel="tag">Webキャンペーン</a><a href="https://balance.bz/magazine/tag/game-promotion/" rel="tag">ゲームプロモーション</a><a href="https://balance.bz/magazine/tag/website/" rel="tag">Webサイト</a><a href="https://balance.bz/magazine/tag/entertainment/" rel="tag">エンタメ要素</a><a href="https://balance.bz/magazine/tag/%e3%82%b2%e3%83%bc%e3%83%a0%e6%a5%ad%e7%95%8c/" rel="tag">ゲーム業界</a><a href="https://balance.bz/magazine/tag/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e5%8f%82%e5%8a%a0%e5%9e%8b/" rel="tag">ユーザー参加型</a><a href="https://balance.bz/magazine/tag/%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0/" rel="tag">ランキング</a></div>                  </div>
+
+                  <div class="author-tags_wrap">
+                                        <div class="author-wrap">
+                      <img class="a_img" src="https://balance.bz/magazine/wp-content/uploads/2022/12/d160a53f71104dc4e5ed3c300ba3ba79.jpg" alt="九条拓斗">
+                      <span class="a_name">九条拓斗</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="articleImgArea">
+                <div class="articleImgWrap">
+                    <img src="https://balance.bz/magazine/wp-content/uploads/2022/11/game-campaign-site.png" alt="ゲームを活用したキャンペーンサイト事例を紹介！遊べるwebサイトの制作方法も解説" decoding="async" fetchpriority="high" srcset="https://balance.bz/magazine/wp-content/uploads/2022/11/game-campaign-site.png 1000w, https://balance.bz/magazine/wp-content/uploads/2022/11/game-campaign-site-285x175.png 285w, https://balance.bz/magazine/wp-content/uploads/2022/11/game-campaign-site-623x383.png 623w, https://balance.bz/magazine/wp-content/uploads/2022/11/game-campaign-site-768x472.png 768w" sizes="(max-width: 1000px) 100vw, 1000px">                </div>
+              </div>
+
+              <div class="freespace txtbox">
+                
+<p><span class="c1">近年、ゲーム要素を取り入れたキャンペーンサイトが増えています。</span></p>
+
+
+
+<p><span class="c1">通常のキャンペーンサイトと比べて話題性を獲得しやすく、<strong>集客効果が高い</strong>ことが主な要因です。</span></p>
+
+
+
+<p><span class="c1">また、ゲーム性のあるWebサイトは、デジタルコンテンツを充実させるうえでも効果的です。</span></p>
+
+
+
+<p><span class="c1">この記事では、ゲーム要素を活用したキャンペーンサイトを事例を交えて解説します。</span></p>
+
+
+<div class="ctablock -contact">
+      <div class="ctablockInner">
+        <p class="ctablockTxt">弊社ではデジタルキャンペーンの<span>企画から制作まで</span>対応可能！お見積もりやご提案はもちろん無料です。ぜひこちらからお気軽にお問い合わせください。</p>
+        <div class="ctablockBtnArea">
+          <div class="ctablockBtnWrap">
+            <a class="ctablockBtn isRevert" href="https://balance.bz/contact/request" target="_blank" rel="noopener">
+              <p class="ctablockBtnTxt">お問い合わせはこちら</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+
+<div class="author_box"><div class="a_img"><img src="https://balance.bz/magazine/wp-content/uploads/2024/01/profile8.jpg" alt="藤井宗一郎"></div><div class="a_meta-wrap"><div class="a_meta"><div class="a_img-sp"><img src="https://balance.bz/magazine/wp-content/uploads/2024/01/profile8.jpg" alt="藤井宗一郎"></div><div class="a_name-area"><p class="a_name-head">この記事の監修者</p><p class="a_name">藤井宗一郎</p></div></div><div class="a_text"><p>Web開発会社 BALANCe代表｜Webサイト制作、システム開発、ゲームを使ったデジタルキャンペーン・PR をサービスとして提供｜WebGL (3D表現)や、ゲーミフィケーション を用いたWebサイト・システム、UGC やSNS上での拡散を狙った PRコンテンツ の制作・開発で成果を実現します。</p></div></div></div>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_76 counter-hierarchy ez-toc-counter ez-toc-custom ez-toc-container-direction" style="height: 400px;">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">この記事でわかること</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #000000;color:#000000" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #000000;color:#000000" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"></path></svg></span></span></span></a></span></div>
+<nav><ul class="ez-toc-list ez-toc-list-level-1 "><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-1" href="#%E9%81%8A%E3%81%B9%E3%82%8BWeb%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8C%E6%B3%A8%E7%9B%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B">遊べるWebサイトが注目されている</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-2" href="#Web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E9%81%8A%E3%81%B9%E3%82%8B%E8%A6%81%E7%B4%A0%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88">Webサイトにゲームで遊べる要素を導入するメリット</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-3" href="#%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E6%BB%9E%E5%9C%A8%E6%99%82%E9%96%93%E3%82%92%E5%BB%B6%E3%81%B0%E3%81%9B%E3%82%8B">ユーザーの滞在時間を延ばせる</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-4" href="#%E8%A9%B1%E9%A1%8C%E6%80%A7%E3%81%8B%E3%82%89%E9%9B%86%E5%AE%A2%E5%8A%B9%E6%9E%9C%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%82%81%E3%82%8B">話題性から集客効果が見込める</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-5" href="#Web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%8C%E5%85%85%E5%AE%9F%E3%81%99%E3%82%8B">Webサイトのコンテンツが充実する</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-6" href="#%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E4%BA%8B%E4%BE%8B">ゲームを活用したキャンペーンサイト事例</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-7" href="#%E3%80%90%E9%80%9A%E4%BF%A1%E3%80%91NTT%E3%83%89%E3%82%B3%E3%83%A2">【通信】NTTドコモ</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-8" href="#%E3%80%90%E6%99%82%E8%A8%88%E3%80%91IWC_Skywriter">【時計】IWC Skywriter</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-9" href="#%E3%80%90%E9%A3%B2%E6%96%99%E3%80%91SUNTORY">【飲料】SUNTORY</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-10" href="#%E3%80%90%E5%8C%BB%E8%96%AC%E5%93%81%E3%80%91%E5%8D%83%E5%AF%BF%E8%A3%BD%E8%96%AC">【医薬品】千寿製薬</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-11" href="#%E3%80%90%E6%BC%AB%E7%94%BB%E3%80%91%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB">【漫画】ドラえもんチャンネル</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-12" href="#%E3%80%90%E3%82%A2%E3%83%91%E3%83%AC%E3%83%AB%E3%80%91%E3%83%93%E3%83%83%E3%82%AF%E3%83%AD%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC">【アパレル】ビックロベーダー</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-13" href="#%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E4%BA%8B%E4%BE%8B">ゲーム会社のキャンペーンサイト事例</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-14" href="#%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB5">スペースチャンネル5</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-15" href="#FINAL_FANTASY_XV%EF%BC%9A%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88">FINAL FANTASY XV：特設サイト</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-16" href="#Great_Scene_Sharing">Great Scene Sharing</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-17" href="#%E5%A4%A2%E3%83%8E%E7%B5%90%E6%99%B6_BanG_Dream_AI_Singing_Synthesizer">夢ノ結晶 BanG Dream! AI Singing Synthesizer</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-18" href="#%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%AD%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3">ラグナロクオリジン</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-19" href="#%E3%83%96%E3%82%B7%E3%83%AD%E3%83%BC%E3%83%8915%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96">ブシロード15周年記念ライブ</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-20" href="#%E3%82%BB%E3%82%AC60%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%82%B5%E3%82%A4%E3%83%88">セガ60周年記念サイト</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-21" href="#%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95">ゲームを活用したキャンペーンサイトの制作方法</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-22" href="#%E7%9B%AE%E7%9A%84%E3%81%A8%E7%9B%AE%E6%A8%99%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B">目的と目標を設定する</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-23" href="#%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E4%BC%81%E7%94%BB%E3%81%99%E3%82%8B">キャンペーンを企画する</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-24" href="#%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%99%E3%82%8B">ゲームコンテンツを制作する</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-25" href="#%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B">キャンペーンサイトを公開する</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-26" href="#%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AA%E3%82%89%E3%80%8C%E3%82%B2%E3%83%BC%E3%82%AD%E3%83%A3%E3%82%93%E3%80%8D%E3%81%8C%E3%81%8A%E3%81%99%E3%81%99%E3%82%81">ゲームを活用したプロモーションなら「ゲーキャん」がおすすめ</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-27" href="#%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%B6%E4%BD%9C%E3%81%AFBALANCe%E3%81%AB%E3%81%8A%E4%BB%BB%E3%81%9B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84">ゲームキャンペーンサイトの制作はBALANCeにお任せください</a></li></ul></nav><div class="accordion-btn"><p>もっと見る</p></div></div>
+<h2 class="wp-block-heading" id="h.s49022g41jlx"><span class="ez-toc-section" id="%E9%81%8A%E3%81%B9%E3%82%8BWeb%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8C%E6%B3%A8%E7%9B%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B" style="font-weight: 700;"></span><span class="c13 c3" style="font-weight: 700;">遊べるWebサイトが注目されている</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<p><span class="c1">キャンペーンサイトに限らず、遊べるWebサイトにはさまざまなパターンがあります。</span></p>
+
+
+
+<p><span class="c1">ブラウザゲームはもちろん、コーポレートサイト内のゲームコンテンツや404エラーページがゲーム化されているケースなどです。</span></p>
+
+
+
+<p><span class="c1">いずれもユーザーの興味をひくことを目的としており、注目を集めるために制作されるキャンペーンサイトや特設サイトとゲームの相性は抜群です。</span></p>
+
+
+
+<p>弊社では<mark>大手企業でのゲームを活用したキャンペーン制作実績があります。</mark><a href="https://balance.bz/works?tag=%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" target="_blank" rel="noopener">ゲームを活用したキャンペーンの制作事例</a>や<a href="https://balance.bz/service/campaign-pr" target="_blank" rel="noopener">サービス概要</a>についてはこちらからご確認ください。</p>
+
+
+
+<div class="wp-block-custom-block-balance-service-block serviceCtablock -serviceCta3"><div class="serviceCta"><div class="serviceCtaTag"><p class="serviceCtaTagTxt">BALANCeのサービス</p></div><div class="serviceCtaInner"><div class="serviceCtaImg css-hover_cardimg_shadow"><img decoding="async" src="/magazine/wp-content/themes/balance//assets/resource/img/article/pic_service3.png" alt=""></div><div class="serviceCtaBody"><p class="serviceCtaTxt">目を引くデザインと演出で関心を喚起するキャンペーンサイト・周年サイトや、AR、メタバース、AIといった最新技術を駆使したPRコンテンツや常設コンテンツを制作・開発いたします。</p><div class="serviceCtaBtnArea"><div class="serviceCtaBtnWrap"><a class="primaryBtn -reverse" href="https://balance.bz/service/campaign-pr" target="_blank" rel="noopener"><div class="primaryBtnInner"><p class="primaryBtnTxt">キャンペーン・PRコンテンツ制作</p><div class="primaryBtnArrow"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.2 9H11M9 17C13.4184 17 17 13.4184 17 9C17 4.5816 13.4184 1 9 1C4.5816 1 1 4.5816 1 9C1 13.4184 4.5816 17 9 17Z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M9.40039 11.3999L11.8004 8.99985L9.40039 6.59985" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></a></div></div></div></div></div></div>
+
+
+
+<h2 class="wp-block-heading" id="h.7yahn0iypfpc"><span class="ez-toc-section" id="Web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E9%81%8A%E3%81%B9%E3%82%8B%E8%A6%81%E7%B4%A0%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88" style="font-weight: 700;"></span>Webサイトにゲームで遊べる要素を導入するメリット<span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<p><span class="c1">Webサイトにゲーム要素を導入すると、具体的には3つのメリットがあります。</span></p>
+
+
+
+<ul class="wp-block-list">
+<li><span class="c1">ユーザーの滞在時間を伸ばせる</span></li>
+
+
+
+<li><span class="c1">話題性から集客効果を見込める</span></li>
+
+
+
+<li><span class="c1">Webサイトのコンテンツが充実する</span></li>
+</ul>
+
+
+
+<p><span class="c1">以下では、それぞれの点について詳しく解説します。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.6z25ww4nrzkc"><span class="ez-toc-section" id="%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E6%BB%9E%E5%9C%A8%E6%99%82%E9%96%93%E3%82%92%E5%BB%B6%E3%81%B0%E3%81%9B%E3%82%8B" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">ユーザーの滞在時間を延ばせる</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-video --loaded"><video height="1080" style="aspect-ratio: 1920 / 1080;" width="1920" controls="" src="https://balance.bz/magazine/wp-content/uploads/2024/02/check.mp4"></video></figure>
+
+
+
+<p><a href="https://balance.bz/works/denso" target="_blank" rel="noopener">弊社でのゲームキャンペーン制作事例</a></p>
+
+
+
+<p><span class="c1">まず、ゲームを楽しんでもらうことで、ユーザー<strong>の滞在時間を延ばせる</strong>点です。平均セッション時間は、WebマーケティングにおけるエンゲージメントとしてKPIになることも多く、ナーチャリングには欠かせない要素です。</span></p>
+
+
+
+<p><span class="c1">企業や商品に対するロイヤリティを向上させるだけでなく、ゲーム内に広告を表示させるなどの施策も可能です。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.kc1uf7sewbn0"><span class="ez-toc-section" id="%E8%A9%B1%E9%A1%8C%E6%80%A7%E3%81%8B%E3%82%89%E9%9B%86%E5%AE%A2%E5%8A%B9%E6%9E%9C%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%82%81%E3%82%8B" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">話題性から集客効果が見込める</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<p><span class="c1">Webサイト内のゲーム機能をもとに話題性をつくりあげ、集客につなげる施策も効果的です。</span></p>
+
+
+
+<p><span class="c1">たとえば、ミニゲームのスコアに応じてクーポンが発行される仕組みにして、ハイスコアを獲得すると商品をお得に購入できるようにするのも一つの手です。クーポンの表示画面にECサイトへのリンクやおすすめ商品などを掲載できれば、ユーザーを自然に誘導できるでしょう。</span></p>
+
+
+
+<p><span class="c1">また、スコアの表示画面にSNSでの拡散を促すボタンリンクを載せておく方法もあります。スコアを獲得したユーザーがSNSを通して発信することによって、認知拡大や新規顧客</span><span class="c1">獲得につながります。</span></p>
+
+
+
+<p><a href="https://balance.bz/magazine/category/system/gamification-example/" target="_blank" rel="noopener">ゲーミフィケーションをマーケティングに活用する方法と活用事例</a>についてはこちらの記事で解説しています。ぜひこちらもご確認ください。</p>
+
+
+
+<!-- start -->
+<div class="relatepost">
+                  <div class="relateCard">
+        <div class="relateCardTag">
+          <p class="relateCardTagTxt">あわせて読みたい</p>
+        </div>
+        <div class="relateCardInner">
+                    <a class="relateCardImg css-hover" href="https://balance.bz/magazine/category/system/gamification-example/" data-hover="cardimg">
+            <img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2024/01/gamification-example-1.png">
+          </a>
+          <div class="relateCardBody">
+            <a class="relateCardTitle css-hover -system" href="https://balance.bz/magazine/category/system/gamification-example/" data-hover="cardtitledate">
+              <p class="relateCardDate css-hover_cardimg_color">2024.01.15</p>
+              <p class="relateCardTitleIn css-hover_cardimg_color">
+                ゲーミフィケーションとは？事例やマーケティングに活用するメリットも解説！              </p>
+            </a>
+            <div class="relateCardLinkArea">
+              <div class="catLinks">
+                <div class="catLinkItem -system"><a href="https://balance.bz/magazine/category/system/">システム開発</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/game-promotion/">ゲームプロモーション</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/degital-stamp-rally/">デジタルスタンプラリー</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/multiplayer/">マルチプレイ</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/%e3%82%ac%e3%83%81%e3%83%a3%e3%83%bb%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88%e3%83%bb%e6%8a%bd%e9%81%b8/">ガチャ・ルーレット・抽選</a></div>              </div>
+            </div>
+          </div>
+                  </div>
+      </div>
+            </div>
+<!-- end -->
+
+
+
+<h3 class="wp-block-heading" id="h.8ha6f4m5r9mj"><span class="ez-toc-section" id="Web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%8C%E5%85%85%E5%AE%9F%E3%81%99%E3%82%8B" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">Webサイトのコンテンツが充実する</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-video --loaded"><video height="2028" style="aspect-ratio: 3600 / 2028;" width="3600" controls="" src="https://balance.bz/magazine/wp-content/uploads/2023/05/movie.mp4"></video></figure>
+
+
+
+<p><a href="https://balance.bz/works/docomo-campaign" target="_blank" rel="noopener">弊社での診断キャンペーンサイト制作事例</a></p>
+
+
+
+<p><span class="c3">キャンペーン概要や告知だけではシンプルなWebサイトになってしまいますが、ゲーム要素を導入することでサイト内の<strong>コンテンツが充実</strong></span><span class="c3">します</span><span class="c1">。</span></p>
+
+
+
+<p><span class="c1">たとえば、商品の製造過程を体験できるミニゲームを実装すれば、ユーザーに楽しさを提供しながら商品理解を深めてもらえます。ゲームを通して、商品の特徴や他社との違いなども訴求できるでしょう。</span></p>
+
+
+
+<p><span class="c1">また、Webサイトのコンテンツの充実度は、ユーザーの再訪問を促すうえでも重要な要素になります。</span></p>
+
+
+
+<p>弊社は、<mark>ゲームコンテンツの制作と、ゲームを活用したキャンペーン企画</mark>を得意としています。ご相談やご提案は無料なので、ぜひ制作を検討している方は<a href="https://balance.bz/contact/request" target="_blank" rel="noopener">こちらからご相談ください</a>。</p>
+
+
+
+<p><span></span></p><div class="ctablock -contact">
+      <div class="ctablockInner">
+        <p class="ctablockTxt">弊社ではデジタルキャンペーンの<span>企画から制作まで</span>対応可能！お見積もりやご提案はもちろん無料です。ぜひこちらからお気軽にお問い合わせください。</p>
+        <div class="ctablockBtnArea">
+          <div class="ctablockBtnWrap">
+            <a class="ctablockBtn isRevert" href="https://balance.bz/contact/request" target="_blank" rel="noopener">
+              <p class="ctablockBtnTxt">お問い合わせはこちら</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p></p>
+
+
+
+<h2 class="wp-block-heading" id="h.ezieeyu9jox7"><span class="ez-toc-section" id="%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E4%BA%8B%E4%BE%8B" style="font-weight: 700;"></span><span class="c13 c3" style="font-weight: 700;">ゲームを活用したキャンペーンサイト事例</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<p><span class="c11">キャンペーンサイトにゲーム性をもたせる施策は、ゲーム業界の企業でなくても実施できます。実際、ゲーム機能を実装したキャンペーンサイトは、あらゆる業界で活用されています。</span></p>
+
+
+
+<p><span class="c11">以下では、各業界におけるキャンペーンサイトの事例について紹介します。</span></p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%80%90%E9%80%9A%E4%BF%A1%E3%80%91NTT%E3%83%89%E3%82%B3%E3%83%A2" style="font-weight: 700;"></span>【通信】NTTドコモ<span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-video --loaded"><video height="2028" style="aspect-ratio: 3600 / 2028;" width="3600" controls="" src="https://balance.bz/magazine/wp-content/uploads/2023/05/movie.mp4"></video></figure>
+
+
+
+<p>NTTドコモ株式会社の診断キャンペーンサイト「声から選ぶスマホ店」を弊社で制作しました。キャンペーンサイトに診断ゲームの要素を取り入れた事例です。</p>
+
+
+
+<p>ユーザーが利用者の実際の声をいくつか選ぶと、自身にぴったりのスマホが表示される仕組みです。<strong>商品購入への誘導を最適することで、期待以上のROIを達成でき、キャンペーンの継続が決定しました。</strong></p>
+
+
+
+<p>また、<a href="https://balance.bz/works/docomo-campaign" target="_blank" rel="noopener">今回の制作の概要と課題、解決策についてはこちら</a>で確認できます。ぜひ確認してみてください。</p>
+
+
+<div class="ctablock -works">
+      <div class="ctablockInner">
+        <p class="ctablockTxt">弊社では<span>デジタルキャンペーンの企画から制作</span>まで対応可能！ゲームのエンタメ性と訴求力・拡散力を活かし、<span>web広告+SNS運用</span>による集客と、<span>SNS上でバズる・話題</span>になるコンテンツを制作・開発・提供いたします。大手ゲーム会社や、大手食品メーカーの制作実績も多数。</p>
+        <div class="ctablockBtnArea">
+          <div class="ctablockBtnWrap">
+            <a class="ctablockBtn isRevert" href="https://balance.bz/works/?service=campaign" target="_blank" rel="noopener">
+              <p class="ctablockBtnTxt">制作実績の詳細はこちら</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+
+
+<h3 class="wp-block-heading" id="h.m7pg644ih1zb"><span class="ez-toc-section" id="%E3%80%90%E6%99%82%E8%A8%88%E3%80%91IWC_Skywriter" style="font-weight: 700;"></span>【時計】IWC Skywriter<span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/7c93affcdffbef7ab861c876f63a2e7e.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span class="c1">IWCシャフハウゼンは、スイス発祥の高級時計メーカーです。クラシック・パイロット・ウォッチに航空計器を想起させるデザインを採用しており、キャンペーンサイトでは航空機を操作するゲームを取り入れています。</span></p>
+
+
+
+<p><span class="c1">4種の航空機から好きな機体を選ぶとゲームが始まり、矢印キーで操作するシンプルなゲームとなっています。ユーザーは、それぞれの機体に関連した時計の紹介とともに、ゲームを楽しめます。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.rz6bsdtmj2i2"><span class="ez-toc-section" id="%E3%80%90%E9%A3%B2%E6%96%99%E3%80%91SUNTORY" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">【飲料】SUNTORY</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/95e6f0803a8a0b623dbfba616a21d120.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image11.png" title=""></span><span class="c1">大手飲料水メーカーのSUNTORYは、人気ゲームのストリートファイターとコラボしたゲームキャンペーンを行っています。WebARパッケージプロモーションとなっており、飲料水を購入して、キャンペーンサイト上のARカメラで読み取るとゲームが遊べる仕組みです。</span></p>
+
+
+
+<p><span class="c1">キャンペーンサイトで話題性を醸成したうえで、販促に活用している事例といえるでしょう。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.j60hvps0uzel"><span class="ez-toc-section" id="%E3%80%90%E5%8C%BB%E8%96%AC%E5%93%81%E3%80%91%E5%8D%83%E5%AF%BF%E8%A3%BD%E8%96%AC" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">【医薬品】千寿製薬</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/1d229c39b5dce2d5bf05e9eea56411ee.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image6.png" title=""></span><span class="c1">千寿製薬の新製品「NewマイティアCLアイスクラッシュ」のキャンペーンページです。ステージ内に隠れている広瀬すずさんを見つけるゲームになります。</span></p>
+
+
+
+<p><span class="c1">難易度が非常に高く設定されており、目を凝らさないと見つからないため、ゲーム後には目が疲れる方も少なくありません。そこでゲーム終了後に商品CMが流れるため、自然とひきつけられるような仕組みになっています。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.28kvy395hyie"><span class="ez-toc-section" id="%E3%80%90%E6%BC%AB%E7%94%BB%E3%80%91%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">【漫画】ドラえもんチャンネル</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/f948a55f45c7ac994ef25083245d7879.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image9.png" title=""></span><span class="c1">ドラえもんチャンネルは、ドラえもんの世界観を投影したブラウザゲームを提供するキャンペーンサイトです。９種類のゲームを通じて、ドラえもんのキャラクターや秘密道具への理解を深められます。</span></p>
+
+
+
+<p><span class="c1">小さい子どもでも遊べるよう、シンプルな操作となっている点が特徴的です。また、月ごとのランキングが設定されているため、毎月一度は遊びたくなる仕様です。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.ksfqwk6u2d3u"><span class="ez-toc-section" id="%E3%80%90%E3%82%A2%E3%83%91%E3%83%AC%E3%83%AB%E3%80%91%E3%83%93%E3%83%83%E3%82%AF%E3%83%AD%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">【アパレル】ビックロベーダー</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/f3f5bff96542c13a76da0aa3adf58f87.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image8.png" title=""></span><span class="c1">ビックロベーダーは、ビックカメラとユニクロがコラボしてできた「ビックロ新宿東口店」のキャンペーンサイトです。縦スクロールのシューティングゲームで、迫り来る「ビックカメラ」「ユニクロ」「ビックロ」を撃ち落とします。</span></p>
+
+
+
+<p><span class="c1">本格的なゲーム性、耳触りのよいBGMに加えて、高得点を記録するとクーポンを獲得できる仕組みになっており、繰り返し遊びたくなる工夫がされていました。</span></p>
+
+
+
+<h2 class="wp-block-heading" id="h.4yg3t9t2hwmr"><span class="ez-toc-section" id="%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E4%BA%8B%E4%BE%8B" style="font-weight: 700;"></span><span class="c3" style="font-weight: 700;">ゲーム会社のキャンペーンサイト事例</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<p><span class="c11">前述のとおり、キャンペーンサイトにゲームを導入する事例は、さまざまな業界で用いられていますが、ゲーム会社のキャンペーンサイトではどのような打ち出し方をしているのでしょうか。</span></p>
+
+
+
+<p><span class="c11">最後に、ゲーム会社のキャンペーンサイト事例について紹介します。</span></p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB5" style="font-weight: 700;"></span><strong>スペースチャンネル5</strong><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-video --loaded"><video height="810" style="aspect-ratio: 1440 / 810;" width="1440" controls="" src="https://balance.bz/magazine/wp-content/uploads/2022/11/sc5.mp4"></video></figure>
+
+
+
+<p>大手エンターテイメント企業の周年記念VRゲーム最新作のプロモーションサイトを弊社で制作しました。</p>
+
+
+
+<p>VRでの配信タイトルだったので、3DCGモデリングで世界観を立体的に表現し、UIアニメーションやインタラクションを充実させるなど、ユーザーに強い没入感を提供することが重要でした。</p>
+
+
+
+<p>また、サイト訪問者がゲームに関する情報を理解しやすく、サイトから製品版の購入ページへスムーズに遷移できるように設計しています。</p>
+
+
+
+<p><a href="https://balance.bz/works/space_channel_5">制作の概要や課題、解決策についてはこちら</a>で解説しています。ぜひこちらもご確認ください。</p>
+
+
+
+<div class="ctablock -works">
+      <div class="ctablockInner">
+        <p class="ctablockTxt">弊社では<span>デジタルキャンペーンの企画から制作</span>まで対応可能！ゲームのエンタメ性と訴求力・拡散力を活かし、<span>web広告+SNS運用</span>による集客と、<span>SNS上でバズる・話題</span>になるコンテンツを制作・開発・提供いたします。大手ゲーム会社や、大手食品メーカーの制作実績も多数。</p>
+        <div class="ctablockBtnArea">
+          <div class="ctablockBtnWrap">
+            <a class="ctablockBtn isRevert" href="https://balance.bz/works/?service=campaign" target="_blank" rel="noopener">
+              <p class="ctablockBtnTxt">制作実績の詳細はこちら</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+
+
+<p><a href="https://balance.bz/magazine/category/web/campaign-site-production/" data-type="link" data-id="https://balance.bz/magazine/category/web/campaign-site-production/">キャンペーンサイトの制作方法と制作の流れ</a>についてはこちらの記事で詳しく解説しています。ぜひこちらもご覧ください。</p>
+
+
+
+<!-- start -->
+<div class="relatepost">
+                  <div class="relateCard">
+        <div class="relateCardTag">
+          <p class="relateCardTagTxt">あわせて読みたい</p>
+        </div>
+        <div class="relateCardInner">
+                    <a class="relateCardImg css-hover" href="https://balance.bz/magazine/category/web/campaign-site-production/" data-hover="cardimg">
+            <img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2023/12/campaign-site-production-1.png">
+          </a>
+          <div class="relateCardBody">
+            <a class="relateCardTitle css-hover -web" href="https://balance.bz/magazine/category/web/campaign-site-production/" data-hover="cardtitledate">
+              <p class="relateCardDate css-hover_cardimg_color">2023.12.27</p>
+              <p class="relateCardTitleIn css-hover_cardimg_color">
+                キャンペーンサイトの制作方法を解説|制作手順や注意点についても紹介              </p>
+            </a>
+            <div class="relateCardLinkArea">
+              <div class="catLinks">
+                <div class="catLinkItem -web"><a href="https://balance.bz/magazine/category/web/">webサイト制作</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/web-campaign/">Webキャンペーン</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/website/">Webサイト</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/expansion-of-awareness/">認知拡大</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/crm-conversion/">CRM機能</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/campaign-site/">キャンペーンサイト</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e5%8f%82%e5%8a%a0%e5%9e%8b/">ユーザー参加型</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/%e4%ba%ba%e6%b0%97%e6%8a%95%e7%a5%a8%e3%83%bb%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0/">人気投票・ランキング</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/%e8%a8%ba%e6%96%ad%e3%83%bb%e5%8d%a0%e3%81%84%e3%83%bb%e3%82%b7%e3%83%8a%e3%83%aa%e3%82%aa/">診断・占い・シナリオ</a></div>              </div>
+            </div>
+          </div>
+                  </div>
+      </div>
+            </div>
+<!-- end -->
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="FINAL_FANTASY_XV%EF%BC%9A%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88" style="font-weight: 700;"></span><strong>FINAL FANTASY XV：特設サイト</strong><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-video --loaded"><video height="810" style="aspect-ratio: 1440 / 810;" width="1440" controls="" src="https://balance.bz/magazine/wp-content/uploads/2024/03/ff.mp4"></video></figure>
+
+
+
+<p>大手エンターテイメント企業の特設サイトを弊社で制作しました。</p>
+
+
+
+<p>ファンにはなじみ深い「FINAL FANTASY XV」が歩んできた進化の軌跡と、その集大成である「ROYAL EDITION」の魅力的なシーンとコピーで構成された約30点のバナー画像がデジタルメディアに出稿されました。</p>
+
+
+
+<p>バナーを押すと、各画像にまつわる小ネタや解説が見られるので、ファンにはたまらないデザインといえるでしょう。</p>
+
+
+
+<p>また、本タイトルの豊かな世界観を伝えるために、FFシリーズの中心となる「クリスタル」の存在を思わせる、破片が舞うような表現が施されています。</p>
+
+
+
+<p>このサイトは、「FINAL FANTASY XV」の魅力と世界観を効果的に伝えられるサイトとして、海外のwebメディア掲載やアワード受賞という成果を達成しています。</p>
+
+
+
+<p><a href="https://balance.bz/works/ff">制作の概要はこちら</a>で解説しています。ぜひこちらもご確認ください。</p>
+
+
+
+<div class="ctablock -works">
+      <div class="ctablockInner">
+        <p class="ctablockTxt">弊社では<span>デジタルキャンペーンの企画から制作</span>まで対応可能！ゲームのエンタメ性と訴求力・拡散力を活かし、<span>web広告+SNS運用</span>による集客と、<span>SNS上でバズる・話題</span>になるコンテンツを制作・開発・提供いたします。大手ゲーム会社や、大手食品メーカーの制作実績も多数。</p>
+        <div class="ctablockBtnArea">
+          <div class="ctablockBtnWrap">
+            <a class="ctablockBtn isRevert" href="https://balance.bz/works/?service=campaign" target="_blank" rel="noopener">
+              <p class="ctablockBtnTxt">制作実績の詳細はこちら</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+
+
+<h3 class="wp-block-heading" id="h.e4aflz4rf086"><span class="ez-toc-section" id="Great_Scene_Sharing" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">Great Scene Sharing</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/bf2b0228eab472287b50f7825040faf3.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image12.png" title=""></span><span class="c3">PlayStation公式サイトでは、</span><span class="c1">PlayStation2の名作ゲームである「ICO」と「ワンダの巨像」のHDリマスター発売にあたり、ユーザー参加型のキャンペーンを実施しました。キャンペーン内容は、ゲームの名シーンムービーをSNS上にシェアすると、オリジナルグッズが当たるというものです。</span></p>
+
+
+
+<p><span class="c1">根強いファンが多いゲームについてのキャンペーン施策を講じて、より多くのユーザーに情報が伝播することを狙いとしています。</span></p>
+
+
+
+<p><a href="https://balance.bz/magazine/category/campaign/game-twitterpr/">ゲーム業界のSNSキャンペーン事例</a>についてはこちらの記事で解説しています。ぜひこちらもご確認ください。</p>
+
+
+
+<!-- start -->
+<div class="relatepost">
+                  <div class="relateCard">
+        <div class="relateCardTag">
+          <p class="relateCardTagTxt">あわせて読みたい</p>
+        </div>
+        <div class="relateCardInner">
+                    <a class="relateCardImg css-hover" href="https://balance.bz/magazine/category/campaign/game-twitterpr/" data-hover="cardimg">
+            <img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/08/game_sns_11.jpg">
+          </a>
+          <div class="relateCardBody">
+            <a class="relateCardTitle css-hover -campaign" href="https://balance.bz/magazine/category/campaign/game-twitterpr/" data-hover="cardtitledate">
+              <p class="relateCardDate css-hover_cardimg_color">2022.08.17</p>
+              <p class="relateCardTitleIn css-hover_cardimg_color">
+                ゲーム業界のSNSキャンペーン事例9選！TwitterのPR施策とは              </p>
+            </a>
+            <div class="relateCardLinkArea">
+              <div class="catLinks">
+                <div class="catLinkItem -campaign"><a href="https://balance.bz/magazine/category/campaign/">キャンペーン・PR</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/web-campaign/">Webキャンペーン</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/game-promotion/">ゲームプロモーション</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/entertainment/">エンタメ要素</a></div><div class="catLinkItem"><a href="https://balance.bz/magazine/tag/pr/">PR</a></div>              </div>
+            </div>
+          </div>
+                  </div>
+      </div>
+            </div>
+<!-- end -->
+
+
+
+<h3 class="wp-block-heading" id="h.53cpnn17dqmk"><span class="ez-toc-section" id="%E5%A4%A2%E3%83%8E%E7%B5%90%E6%99%B6_BanG_Dream_AI_Singing_Synthesizer" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">夢ノ結晶 BanG Dream! AI Singing Synthesizer</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/b40165165b56f6c98777902375fa280f.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image13.png" title=""></span><span class="c1">夢ノ結晶は、「Bang Dream!」と「CeVIO AI」のコラボレーションによって始まった次世代プロジェクトです。テレビアニメにもなったアプリゲーム「BanG Dream!」と、AI技術によってボーカルを再現する「CeVIO AI」がコラボレーションした事例です。</span></p>
+
+
+
+<p><span class="c1">キャンペーンサイトでは、声質・癖・歌い方を高精度に再現する「CeVIO AI」が、どのように「Bang Dream!」に登場するアニメキャラクターの歌声を表現するのかを確認できます。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.9udajvju2gk7"><span class="ez-toc-section" id="%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%AD%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">ラグナロクオリジン</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/0fe868a4b4726f7ddb348527b58d5ced.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/ca00a6b90b1eaf73b5c9541c4df06772.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/775d1ac5f7d19fd8fb274d41e548886a.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image3.png" title=""></span><span><img decoding="async" alt="" src="images/image4.png" title=""></span><span><img decoding="async" alt="" src="images/image10.png" title=""></span><span class="c1">本格育成MMORPGとして人気のアプリゲーム「ラグナロクオリジン」は、キャンペーンサイトでカードメーカーシステムを公開しています。</span></p>
+
+
+
+<p><span class="c1">ゲームのスクリーンショットに吹き出しや画面エフェクトを追加することで、マンガ画像の作成ができる「SSマンガメーカー」、ゲーム内での交流が捗る「フレンドカードメーカー」や「ギルドカードメーカー」などです。</span></p>
+
+
+
+<p><span class="c1">カードメーカーで作成した画像をSNSに投稿して、ファンどうしが交流できるようになっており、さらにアプリゲームの認知にもつなげています。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.wuehb0xvjqjb"><span class="ez-toc-section" id="%E3%83%96%E3%82%B7%E3%83%AD%E3%83%BC%E3%83%8915%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96" style="font-weight: 700;"></span><span class="c5 c3" style="font-weight: 700;">ブシロード15周年記念ライブ</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/2461708ac9908830c169f060a268c347.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image1.png" title=""></span><span class="c1">トレーディングカードゲームを扱うブシロードでは、15周年記念ライブに向けた特設サイトをリリースしました。15周年ライブを彩る豪華アーティストが引き立つよう、シンプルなデザインで作成されており、背景はライブの演出を連想させるイメージになっています。</span></p>
+
+
+
+<p><span class="c1">イベントキャンペーンサイトとしての側面もありつつ、周年記念サイトとしても機能させている事例といえるでしょう。</span></p>
+
+
+
+<h3 class="wp-block-heading" id="h.zi63yxvzb9w4"><span class="ez-toc-section" id="%E3%82%BB%E3%82%AC60%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%82%B5%E3%82%A4%E3%83%88" style="font-weight: 700;"></span><span class="c3 c5" style="font-weight: 700;">セガ60周年記念サイト</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<figure class="wp-block-image alignnone" data-note="1" caption="※弊社の制作実績ではございません"><img decoding="async" src="https://balance.bz/magazine/wp-content/uploads/2022/10/2dfd07bb6ea06ba6f297c7ea45190a7b.png" alt=""><figcaption class="wp-element-caption">※弊社の制作実績ではございません</figcaption></figure>
+
+
+
+<p><span><img decoding="async" alt="" src="images/image2.png" title=""></span><span class="c1">老舗ゲームメーカーのセガは、60周年を記念したキャンペーンサイトを公開しました。ローディングアニメーションから始まって人気のキャラクターが表示され、スクロールするとお祝いメッセージなどを閲覧できます。</span></p>
+
+
+
+<p><span class="c1">キャンペーンサイト内では、セガの歴史を紹介するだけでなく、記念グッズの販売もしており、購買につなげる導線が埋め込まれています。</span></p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95" style="font-weight: 700;"></span>ゲームを活用したキャンペーンサイトの制作方法<span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<p>ゲームを活用したキャンペーンサイトの制作の際は、通常のキャンペーンサイトの制作よりも複雑になります。</p>
+
+
+
+<p>企画から公開までがどのような流れになるのかについて把握しておくと、スムーズに制作を進められます。</p>
+
+
+
+<p>ここからは、ゲームを活用したキャンペーンサイトの制作方法について解説します。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E7%9B%AE%E7%9A%84%E3%81%A8%E7%9B%AE%E6%A8%99%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B" style="font-weight: 700;"></span>目的と目標を設定する<span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<p>まずは、ゲームを活用したキャンペーンを制作する目的と目標を設定しましょう。</p>
+
+
+
+<p>キャンペーンの目的によって、活用するゲームの内容やキャンペーンの設計が異なります。そのため、目的を明確にしておくことで、最適なキャンペーンを選択できます。</p>
+
+
+
+<p>また、最初にキャンペーンの目標数値を設定しておくと、キャンペーン内容を定量的に設計できるだけでなく、実施後の効果測定も可能になります。</p>
+
+
+
+<p>キャンペーンをより効果的なものにするためにも、目的と目標はあらかじめ設定しておきましょう。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E4%BC%81%E7%94%BB%E3%81%99%E3%82%8B" style="font-weight: 700;"></span>キャンペーンを企画する<span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<p>キャンペーンの目的と目標を明確にした後には、キャンペーンの内容を企画しましょう。</p>
+
+
+
+<p>企画する際には、目的に合ったキャンペーン事例について調査するとよいでしょう。これまでに開催された事例を参考に、自社の商品と親和性の高いキャンペーンを企画することがおすすめです。</p>
+
+
+
+<p>キャンペーンを制作できる会社の中には、企画提案から対応できる会社もあります。自社よりもキャンペーン企画に対して知見のある場合が多いため、企画作成からサポートを受けてもよいでしょう。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%99%E3%82%8B" style="font-weight: 700;"></span>ゲームコンテンツを制作する<span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<p>ゲームを活用したキャンペーンを実施する場合は、通常のキャンペーンサイトの制作に加えて、ゲームの制作が必要となります。キャンペーンサイトに活用されるゲームには以下のように、様々な種類があります。</p>
+
+
+
+<p>キャンペーンに活用されるゲームの種類</p>
+
+
+
+<ul class="wp-block-list">
+<li>診断ゲーム</li>
+
+
+
+<li>クイズゲーム</li>
+
+
+
+<li>抽選/ガチャ/ルーレット</li>
+
+
+
+<li>人気投票</li>
+
+
+
+<li>アクションゲーム</li>
+
+
+
+<li>レースゲーム</li>
+
+
+
+<li>シューティングゲーム</li>
+
+
+
+<li>パズルゲーム</li>
+
+
+
+<li>カードゲーム</li>
+
+
+
+<li>リズムゲーム</li>
+</ul>
+
+
+
+<p>自社やキャンペーン制作会社のリソースの中では、ゲーム制作までは対応できない場合もあります。キャンペーンサイトの制作をスムーズに進めるために、ゲームを用いたキャンペーンサイトの企画から制作まで対応できる制作会社を選ぶと安心でしょう。</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B" style="font-weight: 700;"></span>キャンペーンサイトを公開する<span class="ez-toc-section-end" style="font-weight: 700;"></span></h3>
+
+
+
+<p>ゲームを活用したキャンペーンサイトが完成したら、キャンペーンサイトを公開しましょう。</p>
+
+
+
+<p>公開前には、キャンペーンサイトが正常に機能するかを確認する必要があります。ゲームを遊べるようになっている場合は、ゲームを遊んだときに不具合が出ないかについて特に注意するとよいでしょう。</p>
+
+
+
+<p>公開後には、キャンペーンへの流入を確保することが重要です。公開しただけでは、ユーザーはキャンペーンが開催されていることに気づかないためです。プレスリリースやSNS、広告などを活用してキャンペーンを告知するとよいでしょう。</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AA%E3%82%89%E3%80%8C%E3%82%B2%E3%83%BC%E3%82%AD%E3%83%A3%E3%82%93%E3%80%8D%E3%81%8C%E3%81%8A%E3%81%99%E3%81%99%E3%82%81" style="font-weight: 700;"></span>ゲームを活用したプロモーションなら「ゲーキャん」がおすすめ<span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<figure class="wp-block-image" data-note="0" caption=""><img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvcyxKz3i78Io4KAtwPHEAJdvwUcC8b0irNB886DeY-H53S11tCuF3nxubeCTxA9lhlCIBv6Nx2iEPVtrFSspgK1m4-BA_pCWAYdEuI9L3NhB0T3Wr6iZDNCwkG-LbAyZDZ7bGJDOF0WJDkRGp1wIADOy7?key=cfwD5ACt1Vy0AW8V18yudQ" alt=""></figure>
+
+
+
+<p>ゲームを活用した<a href="https://balance.bz/service/campaign-pr" target="_blank" rel="noopener">デジタルキャンペーンの制作</a>を検討している方には、「ゲーキャん」の活用がおすすめです。</p>
+
+
+
+<p>「ゲーキャん」は、ゲームを活用したプロモーションの企画から制作までを一気通貫して提供しているサービスです。制作できるゲームの種類も多いため、他社とは差別化したキャンペーンを実施できます。</p>
+
+
+
+<p>また、商品の認知拡大から販売促進だけでなく、ユーザーのエンゲージメント向上やマーケティングデータ取得など、幅広い目的に応じたキャンペーンの設計が可能です。</p>
+
+
+
+<p>ゲームをデジタルキャンペーンに活用したい方は<a href="https://balance.bz/download/gamecampaign" target="_blank" rel="noopener">ぜひこちらからサービス詳細をご確認</a>ください。</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background has-link-color wp-element-button" href="https://balance.bz/download/gamecampaign" style="border-radius:0px;background-color:#e8ab0d" target="_blank" rel="noopener">ゲーキャんの資料を確認する</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading" id="h.z92fwjxn4wu"><span class="ez-toc-section" id="%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%B6%E4%BD%9C%E3%81%AFBALANCe%E3%81%AB%E3%81%8A%E4%BB%BB%E3%81%9B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84" style="font-weight: 700;"></span><span class="c13 c3" style="font-weight: 700;">ゲームキャンペーンサイトの制作はBALANCeにお任せください</span><span class="ez-toc-section-end" style="font-weight: 700;"></span></h2>
+
+
+
+<p><span class="c1">ゲームキャンペーンサイトを活用したプロモーションは徐々に広がっています。キャンペーンサイトは認知されてはじめて効果を発揮するため、ゲーム性をもたせて話題性を高める手法は非常に効果的です。</span></p>
+
+
+
+<p><span class="c3">BALANCeではゲーム性のあるサイト制作を得意としており、上場大手をはじめ、さまざまな企業の制作実績があります。業種やキャンペーンの目的に応じて最適な提案をさせていただきますので、ぜひ一度<a href="https://balance.bz/contact/request" target="_blank" rel="noopener">こちらからご相談ください</a>。</span></p>
+              </div>
+
+            
+
+              
+<div class="ctablock -end">
+  <div class="ctablockInner">
+    <div class="ctablockLeft">
+      <div class="ctablockHead">
+        <p class="ctablockTitle">DOWNLOAD</p>
+        <p class="ctablockTxt">
+        <span>未公開実績も多数！<br></span>BALANCeの<span>【キャンペーン・PR】サービス説明資料</span>には、<span>『ゲーミフィケーション』</span><span>『Webキャンペーン』</span>の実績が多数掲載されています。<br>また、関連した会社資料も無料ダウンロードできますので、ぜひご覧ください！
+        </p>
+      </div>
+      <div class="ctablockBtnArea">
+        <div class="ctablockBtnWrap isDownload">
+          <a class="primaryBtn" href="https://balance.bz/download" target="_blank" rel="noopener noreferrer">
+            <div class="primaryBtnInner">
+              <p class="primaryBtnTxt">お役立ち資料</p>
+              <div class="primaryBtnArrow">
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M6.2 9H11M9 17C13.4184 17 17 13.4184 17 9C17 4.5816 13.4184 1 9 1C4.5816 1 1 4.5816 1 9C1 13.4184 4.5816 17 9 17Z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  <path d="M9.40039 11.3999L11.8004 8.99985L9.40039 6.59985" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="ctablockRight">
+      <div class="ctablockHead">
+        <p class="ctablockTitle">CONTACT</p>
+        <p class="ctablockTxt">
+          <span>お見積もりやご提案に関しては、費用は発生いたしません。お気軽に、お問い合わせください。</span>
+        </p>
+      </div>
+      <div class="ctablockBtnArea">
+        <div class="ctablockBtnWrap isInquiry">
+          <a class="primaryBtn -reverse" href="https://balance.bz/contact" target="_blank" rel="noopener noreferrer">
+            <div class="primaryBtnInner">
+              <p class="primaryBtnTxt">お問い合わせ</p>
+              <div class="primaryBtnArrow">
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M6.2 9H11M9 17C13.4184 17 17 13.4184 17 9C17 4.5816 13.4184 1 9 1C4.5816 1 1 4.5816 1 9C1 13.4184 4.5816 17 9 17Z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  <path d="M9.40039 11.3999L11.8004 8.99985L9.40039 6.59985" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+              
+                
+                <div class="articleAuthor">
+                  <div class="author_box">
+	<div class="a_img">
+		<img src="https://balance.bz/magazine/wp-content/uploads/2022/12/d160a53f71104dc4e5ed3c300ba3ba79.jpg" alt="九条拓斗">	
+	</div>
+	<div class="a_meta-wrap">
+		<div class="a_meta">
+			<div class="a_img-sp">
+				<img src="https://balance.bz/magazine/wp-content/uploads/2022/12/d160a53f71104dc4e5ed3c300ba3ba79.jpg" alt="九条拓斗">	
+			</div>
+			<div class="a_name-area">
+				<p class="a_name-head">WRITTEN BY</p>
+				<p class="a_name">九条拓斗</p>
+			</div>
+		</div>
+		<div class="a_text">
+			<p>
+				大学でプログラミングを専攻後、Webマーケティング企業に就職。<br>
+現在はWebライター、プログラミングスクールメンター、エンジニアとして活動中。<br>
+<br>
+Web3.0をはじめとした最新技術やプログラミング記事を中心に執筆。			</p>
+		</div>
+		
+
+	</div>
+</div>
+	                </div>
+
+                <div class="articleSnsWrap">
+                  <div class="articleSNS">
+                    <ul class="articleSNSList">
+                      <!-- twitter -->
+                      <li class="articleSNSItem">
+                        <a class="sns-link css-hover" data-hover="img" href="https://twitter.com/share?url=https%3A%2F%2Fbalance.bz%2Fmagazine%2Fcategory%2Fcampaign%2Fgame-campaign-site%2F&amp;text=ゲームを活用したキャンペーンサイト事例を紹介！遊べるwebサイトの制作方法も解説" rel="nofollow" target="_blank">
+                          <img src="https://balance.bz/magazine/wp-content/themes/balance/assets/resource/img/common/sns_tw.svg" alt="">
+                        </a>
+                      </li>
+                      <!-- facebook -->
+                      <li class="articleSNSItem">
+                        <a class="sns-link css-hover" data-hover="img" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbalance.bz%2Fmagazine%2Fcategory%2Fcampaign%2Fgame-campaign-site%2F&amp;t=ゲームを活用したキャンペーンサイト事例を紹介！遊べるwebサイトの制作方法も解説" target="blank" rel="nofollow">
+                          <img src="https://balance.bz/magazine/wp-content/themes/balance/assets/resource/img/common/sns_fb.svg" alt="">
+                        </a>
+                      </li>
+                      <!-- はてぶ -->
+                      <li class="articleSNSItem">
+                        <a class="sns-link css-hover" data-hover="img" href="http://b.hatena.ne.jp/add?mode=confirm&amp;amp;url=https%3A%2F%2Fbalance.bz%2Fmagazine%2Fcategory%2Fcampaign%2Fgame-campaign-site%2F&amp;amp;title=%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E4%BA%8B%E4%BE%8B%E3%82%92%E7%B4%B9%E4%BB%8B%EF%BC%81%E9%81%8A%E3%81%B9%E3%82%8Bweb%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95%E3%82%82%E8%A7%A3%E8%AA%AC" target="_blank" rel="nofollow">
+                          <img src="https://balance.bz/magazine/wp-content/themes/balance/assets/resource/img/common/sns_b.svg" alt="">
+                        </a>
+                      </li>
+                      <!-- line -->
+                      <li class="articleSNSItem">
+                        <a class="sns-link css-hover" data-hover="img" href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fbalance.bz%2Fmagazine%2Fcategory%2Fcampaign%2Fgame-campaign-site%2F" target="_blank" rel="nofollow">
+                          <img src="https://balance.bz/magazine/wp-content/themes/balance/assets/resource/img/common/sns_line.svg" alt="">
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+        
+            </article>
+          </div>

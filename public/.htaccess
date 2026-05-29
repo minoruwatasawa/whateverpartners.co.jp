@@ -1,0 +1,106 @@
+# Whatever Partners Inc. - Apache Configuration
+
+# Enable URL Rewriting
+RewriteEngine On
+
+# Set the base directory
+RewriteBase /
+
+# Redirect to HTTPS (uncomment for production)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Remove trailing slash
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]
+
+# Don't rewrite files or directories
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Rewrite all requests to index.php with page parameter
+RewriteRule ^about$ index.php?page=about [L,QSA]
+RewriteRule ^business/game-dev/([^/]+)$ index.php?page=business&slug=game-dev&sub=$1 [L,QSA]
+RewriteRule ^business/([^/]+)$ index.php?page=business&slug=$1 [L,QSA]
+RewriteRule ^business$ index.php?page=business [L,QSA]
+RewriteRule ^services/([^/]+)$ index.php?page=services&slug=$1 [L,QSA]
+RewriteRule ^services$ index.php?page=services [L,QSA]
+RewriteRule ^philosophy$ index.php?page=philosophy [L,QSA]
+RewriteRule ^message/([^/]+)$ index.php?page=message&slug=$1 [L,QSA]
+RewriteRule ^message$ index.php?page=message [L,QSA]
+RewriteRule ^news$ index.php?page=news [L,QSA]
+RewriteRule ^news/([^/]+)$ index.php?page=news&slug=$1 [L,QSA]
+RewriteRule ^contact$ index.php?page=contact [L,QSA]
+RewriteRule ^privacy$ index.php?page=privacy [L,QSA]
+RewriteRule ^terms$ index.php?page=terms [L,QSA]
+RewriteRule ^admin/icons$ index.php?page=admin-icons [L,QSA]
+RewriteRule ^internal/client-services$ index.php?page=internal-client-services [L,QSA]
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+
+# Security Headers
+<IfModule mod_headers.c>
+    # Prevent clickjacking
+    Header set X-Frame-Options "SAMEORIGIN"
+    
+    # Prevent MIME type sniffing
+    Header set X-Content-Type-Options "nosniff"
+    
+    # Enable XSS filter
+    Header set X-XSS-Protection "1; mode=block"
+    
+    # Referrer Policy
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Caching for static assets
+<IfModule mod_expires.c>
+    ExpiresActive On
+    
+    # Images
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+    
+    # CSS and JavaScript
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    
+    # Fonts
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType application/font-woff "access plus 1 year"
+    ExpiresByType application/font-woff2 "access plus 1 year"
+</IfModule>
+
+# Gzip Compression
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/json
+    AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# Protect sensitive files
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "(^#.*#|\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|sw[op])|~)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Prevent directory listing
+Options -Indexes
+
+# Set default charset
+AddDefaultCharset UTF-8

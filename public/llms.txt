@@ -1,0 +1,29 @@
+# ホワットエバーパートナーズ株式会社（Whatever Partners Inc.）
+
+> Webサイト制作・運営代行・インターネット集客・ブラウザゲーム開発、オリジナルサービス。クリエイティブの力で、インターネットを便利に楽しく。
+
+## 会社情報
+
+- [会社概要](https://www.whateverpartners.co.jp/about): 会社名・設立・資本金・代表者・所在地・アクセス・事業内容
+- [代表メッセージ](https://www.whateverpartners.co.jp/message): 創業・Web制作への想い・社名の由来・代表経歴
+- [代表 詳細経歴](https://www.whateverpartners.co.jp/message/watasawaminoru): 渡沢農の学歴・職歴・独立・設立以降の歩み
+- [基本的な考え方](https://www.whateverpartners.co.jp/philosophy): 企業運営・インターネット・クリエイティブについての考え方
+
+## 受託サービス
+
+- [受託サービス一覧](https://www.whateverpartners.co.jp/business): Web制作・運営代行・集客・ブラウザゲーム開発の4事業
+- [Webサイト制作](https://www.whateverpartners.co.jp/business/web): 新規・リニューアル・ネットショップ、料金目安・進め方
+- [Webサイト運営代行](https://www.whateverpartners.co.jp/business/operation): 更新・記事・LP・障害対応の代行
+- [インターネット集客](https://www.whateverpartners.co.jp/business/marketing): SEO・コンテンツ改善・広告・導線設計
+- [ブラウザゲーム制作](https://www.whateverpartners.co.jp/business/game-dev): プロトタイプ・ミニゲーム・イベント連動・教育用途
+
+## オリジナルサービス・お知らせ・お問い合わせ
+
+- [オリジナルサービス](https://www.whateverpartners.co.jp/services): 100人アンケート・見える化メディア・MIYAGI SAKE MARKET
+- [お知らせ](https://www.whateverpartners.co.jp/news): プレスリリース・イベント・メディア掲載
+- [お問い合わせ](https://www.whateverpartners.co.jp/contact): 電話・メールでの受付、相談無料・見積もり
+
+## Optional
+
+- [プライバシーポリシー](https://www.whateverpartners.co.jp/privacy): 個人情報の取り扱い・Cookie
+- [利用規約](https://www.whateverpartners.co.jp/terms): ウェブサイト利用に適用する規約

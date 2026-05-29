@@ -1,0 +1,8 @@
+# 環境依存（APIキー等。コミットしない）
+.env
+
+# 本番用の設定・表示用のデータ（デプロイで上書きしない。git に含めない）
+display-config/
+
+# キャッシュ
+public/data/cache/

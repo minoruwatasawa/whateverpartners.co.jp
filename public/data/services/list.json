@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "slug": "ai-solutions",
+        "title": "AIソリューション開発",
+        "description": "機械学習・深層学習を活用したカスタムAIソリューションの設計・開発。画像認識、自然言語処理、予測分析など、お客様の課題に最適なAIを構築します。",
+        "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/><path d=\"M7 8h2m6 0h2M9 12h.01M15 12h.01\"/></svg>",
+        "features": [
+            "カスタムAIモデル開発",
+            "画像・音声認識システム",
+            "自然言語処理・チャットボット",
+            "予測分析・レコメンデーション"
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "dx-consulting",
+        "title": "DXコンサルティング",
+        "description": "デジタル変革を戦略から実行まで一貫してサポート。業務プロセスの可視化、最適化、自動化を通じて、お客様のビジネス価値を最大化します。",
+        "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z\"/><path d=\"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z\"/></svg>",
+        "features": [
+            "DX戦略策定",
+            "業務プロセス改善",
+            "データ活用基盤構築",
+            "組織変革支援"
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "system-integration",
+        "title": "システムインテグレーション",
+        "description": "既存システムとAI・クラウドサービスをシームレスに連携。レガシーシステムの modernization からクラウドネイティブな新規開発まで対応します。",
+        "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\" ry=\"2\"/><rect x=\"9\" y=\"9\" width=\"6\" height=\"6\"/><line x1=\"9\" y1=\"1\" x2=\"9\" y2=\"4\"/><line x1=\"15\" y1=\"1\" x2=\"15\" y2=\"4\"/><line x1=\"9\" y1=\"20\" x2=\"9\" y2=\"23\"/><line x1=\"15\" y1=\"20\" x2=\"15\" y2=\"23\"/><line x1=\"20\" y1=\"9\" x2=\"23\" y2=\"9\"/><line x1=\"20\" y1=\"14\" x2=\"23\" y2=\"14\"/><line x1=\"1\" y1=\"9\" x2=\"4\" y2=\"9\"/><line x1=\"1\" y1=\"14\" x2=\"4\" y2=\"14\"/></svg>",
+        "features": [
+            "API設計・開発",
+            "クラウド移行・構築",
+            "マイクロサービス化",
+            "レガシー modernization"
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "creative",
+        "title": "クリエイティブ制作",
+        "description": "AIを活用した次世代のクリエイティブ制作。Webサイト、アプリUI、動画、イラストなど、革新的なビジュアルコンテンツを提供します。",
+        "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><polygon points=\"12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2\"/></svg>",
+        "features": [
+            "AI生成アート・イラスト",
+            "Web/アプリUI/UXデザイン",
+            "動画・モーショングラフィックス",
+            "ブランディング"
+        ]
+    }
+]
